@@ -5,7 +5,7 @@ The river discharge was estimated using the [bamr](https://github.com/markwh/bam
 
 ### result_figures.ipynb
 
-This code loads the results at **dat** directory, and .raws the figures for the manuscript. The figures are generated under the **fig** directory.
+This code loads the results at **dat** directory, and .raws the figures for the manuscript.
 
 ### dat
 #### reach_results_conventional.csv & reach_results_virtual.csv 
@@ -15,7 +15,3 @@ The river discharge estimates by the BAM for the targeted reaches in the two exp
 #### gauge
 
 This sub-directory includes BAM-predicted discharge and the observed discharge on the Landsat data acquisition date for the 19 gauges.
-
-### fig
-
-Figures are genrated in this folder by executing the **result_figures_.ipynb**.
