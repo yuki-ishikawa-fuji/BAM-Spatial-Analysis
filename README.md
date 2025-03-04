@@ -5,7 +5,7 @@ The river discharge was estimated using the [bamr](https://github.com/markwh/bam
 
 ### result_figures.ipynb
 
-This code loads the results at **dat** directory, and .raws the figures for the manuscript.
+This code loads the results at **dat** directory, and draws the figures for the manuscript.
 
 ### dat
 #### reach_results_conventional.csv & reach_results_virtual.csv 
